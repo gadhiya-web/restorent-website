@@ -1,0 +1,2534 @@
+.container
+{
+    padding: 0 10px;
+}
+
+@media screen and (min-width:250px) and (max-width:320px) {
+
+    /* header-start */
+    .header-main
+    {
+        flex-wrap: wrap;
+    }
+
+    .header-1
+    {
+        padding: 0;
+    }
+
+    .header-1-1
+    {
+        width: 0px;
+        bottom: 0;
+        top: 50px;
+        padding: 80px;
+        left: 80px;
+    }
+    /* header-end */
+
+    /* danny-start */
+    .danny-main
+    {
+        flex-wrap: wrap;
+    }
+
+    .danny-1
+    {
+        flex-wrap: wrap;
+    }
+
+    .danny-1-1
+    {
+        width: 100%;
+    }
+
+    .danny-1-1-1
+    {
+        margin-left: 35%;
+    }
+
+    .danny-1-2
+    {
+        text-align: center;
+        width: 100%;
+    }
+
+    .danny-1-2 h2
+    {
+        font-size: 30px;
+    }
+
+    .danny-1-2 p
+    {
+        font-size: 15px;
+        margin-top: 30px;
+        padding: 15px;
+    }
+    .ab
+    {
+        margin-left: 75px;
+    }
+
+    .danny-1-1-2
+    {
+        left: 15px;
+    }
+    /* danny-end */
+
+    /* minim-start */
+    .minim-main
+    {
+        flex-wrap: wrap;
+    }
+
+    .minim-1
+    {
+        flex-wrap: wrap;
+    }
+
+    .minim-1-1
+    {
+        flex-wrap: wrap; 
+        width: 100%;
+        text-align: center;
+    }
+
+    .minim-1-1-1
+    {
+        width: 100%;
+    }
+
+    .minim-1-1-1 h2
+    {
+        font-size: 40px;
+    }
+
+    .what-btn
+    {
+        flex-wrap: wrap;
+        margin-left: 70px;
+    }
+
+    .minim-1-1-1 p
+    {
+        font-size: 15px;
+    }
+
+    .minim-1-1-2
+    {
+        width: 100%;
+    }
+
+    .minim-1-1-2 p
+    {
+        font-size: 15px;
+        margin-top: 0;
+    }
+
+    .minim-1-2
+    {
+        width: 100%;
+        padding: 10px;
+    }
+    /* minim-end */
+
+    /* ties-start */
+    .ties-main
+    {
+        flex-wrap: wrap;
+    }
+
+    .ties-1
+    {
+        flex-wrap: wrap;
+    }
+    
+    .ties-1-1
+    {
+        width: 100%;
+    }
+
+    .ties-1-1-1
+    {
+        width: 65%;
+    }
+
+    .ties-1-2
+    {
+        flex-wrap: wrap;
+        width: 100%;
+    }
+
+    .ties-1-2-1 h2
+    {
+        text-align: center;
+    }
+
+    .ties-1-2-1 h3
+    {
+        text-align: center;
+    }
+
+    .ties-1-2-1 p
+    {
+        text-align: center;
+        font-size: 15px;
+    }
+
+    .ties-1-2-2 p
+    {
+        font-size: 15px;
+        text-align: center;
+        margin-top: 0;
+    }
+    /* ties-end */
+
+
+    /* crem-start */
+    .creme-main
+    {
+        flex-wrap: wrap;
+    }
+
+    .creme-1
+    {
+        padding: 0;
+    }
+
+    .creme-1-1 h3
+    {
+        font-size: 40px;
+    }
+
+    .creme-1-1 p
+    {
+        font-size: 20px;
+    }
+
+    .creme-1-1 h4
+    {
+        font-size: 20px;
+        margin-bottom: 40px;
+    }
+
+    .creme-1-1 h2
+    {
+        font-size: 40px;
+    }
+
+    .creme-1-1 h3
+    {
+        font-size: 25px;
+    }
+
+    .creme-1-1 p
+    {
+        font-size: 15px;
+    }
+
+    .r-btn a
+    {
+        font-size: 20px;
+    }
+
+    .r-btn
+    {
+        margin-top: 24px;
+    }
+
+    .read-btn
+    {
+        display: none;
+        margin-left: 0;
+        flex-wrap: wrap;
+        width: 100%
+    }
+    /* crem-end */
+
+    /* menu-start */
+    .menu-main
+    {
+        flex-wrap: wrap;
+    }
+
+    .menu-1
+    {
+        flex-wrap: wrap;
+    }
+
+    .menu-1-1
+    {
+        width: 100%;
+        bottom: 0;
+    }
+
+    .menu-1-1 a
+    {
+        font-size: 15px;
+    }
+
+    .menu-2
+    {
+        flex-wrap: wrap;
+        width: 100%;
+        padding: 10px;
+    }
+
+    .menu-1-2
+    {
+        width: 100%;
+    }
+
+    .menu-1-3
+    {
+        width: 100%;
+    }
+
+    .menu-1-4
+    {
+        width: 100%;
+    }
+
+    .menu-1-5
+    {
+        width: 100%;
+    }
+    /* menu-end */
+
+    /* slider-start */
+    .slider-main
+    {
+        flex-wrap: wrap;
+    }
+
+    .mySlides
+    {
+        padding: 0;
+    }
+
+    .mySlides q
+    {
+        font-size: 15px;
+    }
+
+    .slideshow-container h2
+    {
+            margin-left: 0;
+            text-align: center;
+    }
+
+    .slideshow-container h3
+    {
+        margin-left: 0;
+        text-align: center;
+    }
+
+    .author
+    {
+        margin-bottom: 20px;
+    }
+    /* slider-end */
+
+    /* book-start */
+    .book-main
+    {
+        flex-wrap: wrap;
+    }
+
+    .book-1
+    {
+        flex-wrap: wrap;
+    }
+
+    .book-1-1
+    {
+        width: 100%;
+        padding: 20px;
+    }
+
+    .book-1-1 h2
+    {
+        font-size: 30px;
+        margin-top: 10px;
+    }
+
+    .book-1-1 p
+    {
+        font-size: 15px;
+    }
+
+    .book-1-2
+    {
+        display: none;
+    }
+    /* book-end */
+
+    /* contt-start */
+    .countt-main
+    {
+        flex-wrap: wrap;
+    }
+    
+    .countt-1 h2
+    {
+        font-size: 35px;
+        margin-top: 50px;
+    }
+
+    .countt-1 h3
+    {
+        font-size: 25px;
+    }
+
+    .countt-1 p
+    {
+        font-size: 15px;
+    }
+
+    .gk-btn
+    {
+        flex-wrap: wrap;
+        margin-left: 0;
+    }
+
+    .input-1 input
+    {
+        padding-right: 100px;
+        border-radius: 50px 50px 50px 50px;
+        margin-left: 15px;
+    }
+
+    .k-btn
+    {
+        left: 75px;
+        top: 10px;
+        border-left: 5px double black;
+    }
+    /* contt-end */
+
+    /* footer-start */
+    .footer
+    {
+        padding: 0;
+    }
+    .footer-main
+    {
+        flex-wrap: wrap;
+    }
+
+    .footer-1
+    {
+        flex-wrap: wrap;
+    }
+
+    .footer-1-1
+    {
+        width: 100%;
+    }
+
+    .footer-1-1 p
+    {
+        text-align: center;
+        padding: 10px;
+        margin-top: 0;
+    }
+
+    .footer-1-2
+    {
+        width: 100%;
+    }
+
+    .footer-1-3
+    {
+        width: 100%;
+    }
+
+    .footer-1-4
+    {
+        width: 100%;
+        text-align: center;
+        padding: 10px;
+    }
+
+    .footer-1-4 h3
+    {
+        font-size: 15px;
+    }
+
+    .icon
+    {
+        display: flex;
+    }
+    /* footer-end */
+
+    /* new page start abour(menu) */
+
+    /* menu-header-start */
+    .menu-header-main
+    {
+        flex-wrap: wrap;
+    }
+
+    .menu-header-1
+    {
+        padding: 0;
+    }
+
+    .menu-header-1-1 h2
+    {
+        font-size: 20px;
+    }
+
+    .menu-header-1-1 h1
+    {
+        font-size: 50px;
+    }
+
+    .menu-header-1-1 h3
+    {
+        font-size: 20px;
+        margin-bottom: 30px;
+    }
+
+    /* menu-header-end */
+
+    /* tasty-start */
+    .tasty-1
+    {
+        flex-wrap: wrap;
+    }
+
+    .tasty-1-1
+    {
+        width: 100%;
+    }
+
+    .tasty-1-2
+    {
+        width: 100%;
+    }
+
+    .tasty-1-3
+    {
+        width: 100%;
+    }
+
+    .tasty-1-2-2 h4
+    {
+        font-size: 10px;
+    }
+
+    .tasty-1-1-1 h4
+    {
+        font-size: 15px;
+    }
+
+    .tasty-1-1-1 p
+    {
+        font-size: 13px;
+    }
+
+    .testy-1-3-1 h4
+    {
+        font-size: 10px;
+    }
+
+    .tasty-1-3
+    {
+        margin-top: 0;
+    }
+
+    .tasty-1-1-1 h2
+    {
+        margin-top: 40px;
+    }
+    /* tasty-end */
+
+    /* new page-Reservation-start */
+
+    /* Reservation-start */
+    .Reservation-main
+    {
+        flex-wrap: wrap;
+    }
+
+    .Reservation-1
+    {
+        padding: 0;
+    }
+    .Reservation-1 h3
+    {
+        font-size: 25px;
+    }
+
+    .Reservation-1 h2
+    {
+        font-size: 40px;
+        margin-top: 20px;
+    }
+
+    .Reservation-1 h4
+    {
+        font-size: 20px;
+    }
+
+    .Reservation-1 p
+    {
+        font-size: 20px;
+        margin-top: 30px;
+        margin-bottom: 50px;
+    }
+    /* Reservation-end */
+
+    /* Details-start */
+
+    .Details-main
+    {
+        flex-wrap: wrap;
+    }
+
+    .Details-2
+    {
+        flex-wrap: wrap;
+    }
+    .Details
+    {
+        bottom: 0;
+        padding: 0;
+    }
+
+    .Details-2-1
+    {
+        width: 100%;
+    }
+
+    .Details-2-1 input
+    {
+        border-radius: 20px;
+    }
+
+    .Details-2-2
+    {
+        width: 100%;
+        margin-top: 30px;
+    }
+
+    .Details-2-2 input
+    {
+        border-radius: 20px;
+    }
+
+    .Details-2-3
+    {
+        width: 100%;
+        margin-top: 30px;
+    }
+
+    .Details-2-3 input
+    {
+        border-radius: 20px;
+    }
+
+    .detailes-3 input
+    {
+        padding: 10px 0;
+    }
+
+    .detailes-3-4 textarea
+    {
+        padding: 10px 50px;
+    }
+
+    .detailes-3 h4
+    {
+        font-size: 15px;
+    }
+
+    .detailes-3 h3
+    {
+        font-size: 25px;
+    }
+    /* Details-end */
+
+    /* new-page-shop-start */
+
+    /* sop-start */
+    .shop-1
+    {
+        flex-wrap: wrap;
+    }
+
+    .shop-main h2 {
+        font-size: 30px;
+        padding: 10px 10px;
+    }
+
+    .shop-1-2 select
+    {
+        margin-top: 20px;
+    }
+    /* shop-end */
+
+    /* shop-card-start */
+    .shop-card-main
+    {
+        flex-wrap: wrap;
+    }
+
+    .shop-card-1
+    {
+        flex-wrap: wrap;
+    }
+    /* shop-card-end */
+
+    /* new-page-news-start */
+
+
+    /* news-header-start */
+    .news-header-main
+    {
+            flex-wrap: wrap;
+    }
+
+    .news-header-1
+    {
+        padding: 0;
+    }
+
+    .news-header-1 h2
+    {
+        margin-bottom: 20px;
+        margin-top: 30px;
+    }
+
+    .news-header-1 h1
+    {
+        font-size: 50px;
+    }
+
+    .news-header-1 h3
+    {
+        font-size: 20px;
+    }
+
+    .news-header-1 h4
+    {
+        margin-bottom: 30px ;
+    }
+    /* news-header-end */
+
+    /* del-start */
+    .del-main
+    {
+        flex-wrap: wrap;
+    }
+
+    .del-1
+    {
+        flex-wrap: wrap;
+    }
+
+    .del-1-1
+    {
+        width: 100%;
+        text-align: center;
+    }
+
+    .del-1-1 span
+    {
+        position: relative;
+        top: 30px;
+        font-size: 30px;
+    }
+
+    .del-1-1 h2
+    {
+        font-size: 30px;
+    }   
+
+    .del-1-1-1
+    {
+        padding: 0;
+    }
+
+    .del-1-1 h4
+    {
+        margin-top: 20px;
+    }
+
+    .del-1-1 span
+    {
+        display: none;
+    }
+
+    .del-1-2
+    {
+        width: 100%;
+        padding: 10px;
+    }
+    /* del-end */
+
+    /* stu-start */
+    .stu-main
+    {
+        flex-wrap: wrap;
+    }
+
+    .stu-1
+    {
+        flex-wrap: wrap;
+        gap: 0;
+    }
+
+    .stu-1-1
+    {
+        width: 100%;
+    }
+
+    .stu-1-2
+    {
+        width: 100%;
+    }
+
+    .stu-1-3
+    {
+        width: 100%;
+    }
+
+    .stu-1-2 h3
+    {
+        margin-top: 70px;
+    }
+    /* stu-end */
+
+    /* look-start */
+    .look-main
+    {
+        flex-wrap: wrap;
+    }
+
+    .look-1
+    {
+        flex-wrap: wrap;
+    }
+
+    .look-1-1
+    {
+        width: 100%;
+        margin-top: 190px;
+    }
+
+    .look-1-2
+    {
+        width: 100%;
+       }
+
+    .look-1-3
+    {
+        width: 100%;
+    }
+    /* look-end */
+
+    /* new-psge-contact-start */
+
+    /* contact-start */
+    .contact-main
+    {
+        flex-wrap: wrap;
+    }
+
+    .contact-1
+    {
+        padding: 0;
+    }
+
+    .contact-1 h3
+    {
+        font-size: 40px;
+    }
+
+    .contact-1 h4
+    {
+        font-size: 16px;
+        color: goldenrod;
+    }
+
+    .contact-1 p
+    {
+        margin-bottom: 40px;
+    }
+
+    .contact-1 h2
+    {
+        margin-top: 30px;
+    }
+
+    .loop-1 input
+    {
+        margin-left: 0;
+    }
+
+    .loop textarea
+    {
+        padding-right: 28%;
+        margin-left: 7%;
+    }
+
+    .loop a
+    {
+        margin-left: 30%;
+    }
+    /* contact-end */
+}
+
+@media screen and (min-width:300px) and (max-width:375px) {
+
+     /* header-start */
+     .header-main
+     {
+         flex-wrap: wrap;
+     }
+ 
+     .header-1
+     {
+         padding: 0;
+         background: none;
+     }
+ 
+     .header-1-1
+     {
+         width: 42%;
+         bottom: 0;
+         top: 100px;
+         padding: 120px;
+         left: 30px;
+     }
+     /* header-end */
+
+      /* danny-start */
+    .danny-main
+    {
+        flex-wrap: wrap;
+    }
+
+    .danny-1
+    {
+        flex-wrap: wrap;
+    }
+
+    .danny-1-1
+    {
+        width: 100%;
+    }
+
+    .danny-1-1-1
+    {
+        margin-left: 35%;
+    }
+
+    .danny-1-2
+    {
+        text-align: center;
+        width: 100%;
+    }
+
+    .danny-1-2 h2
+    {
+        font-size: 30px;
+    }
+
+    .danny-1-2 p
+    {
+        font-size: 15px;
+        margin-top: 30px;
+        padding: 15px;
+    }
+
+    .ab
+    {
+        margin-left: 100px;
+    }
+
+    .danny-1-1-2
+    {
+        left: 15px;
+    }
+    /* danny-end */
+
+     /* minim-start */
+     .minim-main
+     {
+         flex-wrap: wrap;
+     }
+ 
+     .minim-1
+     {
+         flex-wrap: wrap;
+     }
+ 
+     .minim-1-1
+     {
+         flex-wrap: wrap; 
+         width: 100%;
+         text-align: center;
+     }
+ 
+     .minim-1-1-1
+     {
+         width: 100%;
+     }
+ 
+     .minim-1-1-1 h2
+     {
+         font-size: 40px;
+     }
+ 
+     .what-btn
+     {
+         flex-wrap: wrap;
+         margin-left: 60px;
+     }
+ 
+     .minim-1-1-1 p
+     {
+         font-size: 15px;
+     }
+ 
+     .minim-1-1-2
+     {
+         width: 100%;
+     }
+ 
+     .minim-1-1-2 p
+     {
+         font-size: 15px;
+         margin-top: 0;
+     }
+ 
+     .minim-1-2
+     {
+         width: 100%;
+         padding: 10px;
+     }
+     /* minim-end */
+ 
+     /* ties-start */
+     .ties-main
+     {
+         flex-wrap: wrap;
+     }
+ 
+     .ties-1
+     {
+         flex-wrap: wrap;
+     }
+     
+     .ties-1-1
+     {
+         width: 100%;
+     }
+ 
+     .ties-1-1-1
+     {
+         width: 65%;
+     }
+ 
+     .ties-1-2
+     {
+         flex-wrap: wrap;
+         width: 100%;
+     }
+ 
+     .ties-1-2-1 h2
+     {
+         text-align: center;
+     }
+ 
+     .ties-1-2-1 h3
+     {
+         text-align: center;
+     }
+ 
+     .ties-1-2-1 p
+     {
+         text-align: center;
+         font-size: 15px;
+     }
+ 
+     .ties-1-2-2 p
+     {
+         font-size: 15px;
+         text-align: center;
+         margin-top: 0;
+     }
+
+     .whatt-btn
+     {
+        flex-wrap: wrap;
+        margin-left: 70px;
+     }
+     /* ties-end */
+ 
+ 
+     /* crem-start */
+     .creme-main
+     {
+         flex-wrap: wrap;
+     }
+ 
+     .creme-1
+     {
+         padding: 0;
+     }
+ 
+     .creme-1-1 h3
+     {
+         font-size: 40px;
+     }
+ 
+     .creme-1-1 p
+     {
+         font-size: 20px;
+     }
+ 
+     .creme-1-1 h4
+     {
+         font-size: 20px;
+         margin-bottom: 40px;
+     }
+ 
+     .creme-1-1 h2
+     {
+         font-size: 40px;
+     }
+ 
+     .creme-1-1 h3
+     {
+         font-size: 25px;
+     }
+ 
+     .creme-1-1 p
+     {
+         font-size: 15px;
+     }
+ 
+     .r-btn a
+     {
+         font-size: 20px;
+     }
+ 
+     .r-btn
+     {
+         margin-top: 24px;
+     }
+ 
+     .read-btn
+     {
+         display: none;
+         margin-left: 0;
+         flex-wrap: wrap;
+         width: 100%
+     }
+     /* crem-end */
+ 
+     /* menu-start */
+     .menu-main
+     {
+         flex-wrap: wrap;
+     }
+ 
+     .menu-1
+     {
+         flex-wrap: wrap;
+     }
+ 
+     .menu-1-1
+     {
+         width: 100%;
+         bottom: 0;
+     }
+ 
+     .menu-1-1 a
+     {
+         font-size: 15px;
+     }
+ 
+     .menu-2
+     {
+         flex-wrap: wrap;
+         width: 100%;
+         padding: 10px;
+     }
+ 
+     .menu-1-2
+     {
+         width: 100%;
+     }
+ 
+     .menu-1-3
+     {
+         width: 100%;
+     }
+ 
+     .menu-1-4
+     {
+         width: 100%;
+     }
+ 
+     .menu-1-5
+     {
+         width: 100%;
+     }
+     /* menu-end */
+ 
+     /* slider-start */
+     .slider-main
+     {
+         flex-wrap: wrap;
+     }
+ 
+     .mySlides
+     {
+         padding: 0;
+     }
+ 
+     .mySlides q
+     {
+         font-size: 15px;
+     }
+ 
+     .slideshow-container h2
+     {
+             margin-left: 0;
+             text-align: center;
+     }
+ 
+     .slideshow-container h3
+     {
+         margin-left: 0;
+         text-align: center;
+     }
+ 
+     .author
+     {
+         margin-bottom: 20px;
+     }
+     /* slider-end */
+ 
+     /* book-start */
+     .book-main
+     {
+         flex-wrap: wrap;
+     }
+ 
+     .book-1
+     {
+         flex-wrap: wrap;
+     }
+ 
+     .book-1-1
+     {
+         width: 100%;
+         padding: 20px;
+     }
+ 
+     .book-1-1 h2
+     {
+         font-size: 30px;
+         margin-top: 10px;
+     }
+ 
+     .book-1-1 p
+     {
+         font-size: 15px;
+     }
+ 
+     .book-1-2
+     {
+         display: none;
+     }
+     /* book-end */
+ 
+     /* contt-start */
+     .countt-main
+     {
+         flex-wrap: wrap;
+     }
+     
+     .countt-1 h2
+     {
+         font-size: 35px;
+         margin-top: 50px;
+     }
+ 
+     .countt-1 h3
+     {
+         font-size: 25px;
+     }
+ 
+     .countt-1 p
+     {
+         font-size: 15px;
+     }
+ 
+     .gk-btn
+     {
+         flex-wrap: wrap;
+         margin-left: 0;
+     }
+ 
+     .input-1 input
+     {
+         padding-right: 50%;
+         border-radius: 50px 50px 50px 50px;
+         margin-left: 6px;
+     }
+ 
+     .k-btn
+     {
+         left: 70px;
+         top: 10px;
+         border-left: 5px double black;
+     }
+     /* contt-end */
+ 
+     /* footer-start */
+     .footer
+     {
+         padding: 0;
+     }
+     .footer-main
+     {
+         flex-wrap: wrap;
+     }
+ 
+     .footer-1
+     {
+         flex-wrap: wrap;
+     }
+ 
+     .footer-1-1
+     {
+         width: 100%;
+     }
+ 
+     .footer-1-1 p
+     {
+         text-align: center;
+         padding: 10px;
+         margin-top: 0;
+     }
+ 
+     .footer-1-2
+     {
+         width: 100%;
+     }
+ 
+     .footer-1-3
+     {
+         width: 100%;
+     }
+ 
+     .footer-1-4
+     {
+         width: 100%;
+         text-align: center;
+         padding: 10px;
+     }
+ 
+     .footer-1-4 h3
+     {
+         font-size: 15px;
+     }
+ 
+     .footer-1-3 a
+     {
+        padding: 15px 50px;
+     }
+     .icon
+     {
+         display: flex;
+         justify-content: space-between;
+     }
+     /* footer-end */
+ 
+     /* new page start abour(menu) */
+ 
+     /* menu-header-start */
+     .menu-header-main
+     {
+         flex-wrap: wrap;
+     }
+ 
+     .menu-header-1
+     {
+         padding: 0;
+     }
+ 
+     .menu-header-1-1 h2
+     {
+         font-size: 20px;
+     }
+ 
+     .menu-header-1-1 h1
+     {
+         font-size: 50px;
+     }
+ 
+     .menu-header-1-1 h3
+     {
+         font-size: 20px;
+         margin-bottom: 30px;
+     }
+ 
+     /* menu-header-end */
+ 
+     /* tasty-start */
+     .tasty-1
+     {
+         flex-wrap: wrap;
+     }
+ 
+     .tasty-1-1
+     {
+         width: 100%;
+     }
+ 
+     .tasty-1-2
+     {
+         width: 100%;
+     }
+ 
+     .tasty-1-3
+     {
+         width: 100%;
+     }
+ 
+     .tasty-1-2-2 h4
+     {
+         font-size: 10px;
+     }
+ 
+     .tasty-1-1-1 h4
+     {
+         font-size: 15px;
+     }
+ 
+     .tasty-1-1-1 p
+     {
+         font-size: 12px;
+     }
+ 
+     .testy-1-3-1 h4
+     {
+         font-size: 10px;
+     }
+ 
+     .tasty-1-3
+     {
+         margin-top: 0;
+     }
+ 
+     .tasty-1-1-1 h2
+     {
+         margin-top: 40px;
+     }
+     /* tasty-end */
+ 
+     /* new page-Reservation-start */
+ 
+     /* Reservation-start */
+     .Reservation-main
+     {
+         flex-wrap: wrap;
+     }
+ 
+     .Reservation-1
+     {
+         padding: 0;
+     }
+     .Reservation-1 h3
+     {
+         font-size: 25px;
+     }
+ 
+     .Reservation-1 h2
+     {
+         font-size: 35px;
+         margin-top: 20px;
+     }
+ 
+     .Reservation-1 h4
+     {
+         font-size: 20px;
+     }
+ 
+     .Reservation-1 p
+     {
+         font-size: 20px;
+         margin-top: 30px;
+         margin-bottom: 50px;
+     }
+     /* Reservation-end */
+ 
+     /* Details-start */
+ 
+     .Details-main
+     {
+         flex-wrap: wrap;
+     }
+ 
+     .Details-2
+     {
+         flex-wrap: wrap;
+     }
+     .Details
+     {
+         bottom: 0;
+         padding: 0;
+     }
+ 
+     .Details-2-1
+     {
+         width: 100%;
+     }
+ 
+     .Details-2-1 input
+     {
+         border-radius: 20px;
+     }
+ 
+     .Details-2-2
+     {
+         width: 100%;
+         margin-top: 30px;
+     }
+ 
+     .Details-2-2 input
+     {
+         border-radius: 20px;
+     }
+ 
+     .Details-2-3
+     {
+         width: 100%;
+         margin-top: 30px;
+     }
+ 
+     .Details-2-3 input
+     {
+         border-radius: 20px;
+     }
+ 
+     .detailes-3 input
+     {
+         padding: 10px 0;
+     }
+ 
+     .detailes-3-4 textarea
+     {
+         padding: 10px 50px;
+     }
+ 
+     .detailes-3 h4
+     {
+         font-size: 15px;
+     }
+ 
+     .detailes-3 h3
+     {
+         font-size: 25px;
+     }
+     /* Details-end */
+ 
+     /* new-page-shop-start */
+ 
+     /* sop-start */
+     .shop-1
+     {
+         flex-wrap: wrap;
+     }
+ 
+     .shop-main h2 {
+         font-size: 30px;
+         padding: 10px 10px;
+     }
+
+     .shop-main h4
+     { 
+        text-align: center;
+        margin-top: 20px;
+        margin-bottom: 20px;
+     }
+ 
+     .shop-1-2 select
+     {
+         margin-top: 20px;
+     }
+     /* shop-end */
+ 
+     /* shop-card-start */
+     .shop-card-main
+     {
+         flex-wrap: wrap;
+     }
+ 
+     .shop-card-1
+     {
+         flex-wrap: wrap;
+     }
+     /* shop-card-end */
+ 
+     /* new-page-news-start */
+ 
+ 
+     /* news-header-start */
+     .news-header-main
+     {
+             flex-wrap: wrap;
+     }
+ 
+     .news-header-1
+     {
+         padding: 0;
+     }
+ 
+     .news-header-1 h2
+     {
+         margin-bottom: 20px;
+         margin-top: 30px;
+     }
+ 
+     .news-header-1 h1
+     {
+         font-size: 50px;
+     }
+ 
+     .news-header-1 h3
+     {
+         font-size: 20px;
+     }
+ 
+     .news-header-1 h4
+     {
+         margin-bottom: 30px ;
+     }
+     /* news-header-end */
+ 
+     /* del-start */
+     .del-main
+     {
+         flex-wrap: wrap;
+     }
+ 
+     .del-1
+     {
+         flex-wrap: wrap;
+     }
+ 
+     .del-1-1
+     {
+         width: 100%;
+         text-align: center;
+     }
+ 
+     .del-1-1 span
+     {
+         position: relative;
+         top: 30px;
+         font-size: 30px;
+     }
+ 
+     .del-1-1 h2
+     {
+         font-size: 30px;
+     }   
+ 
+     .del-1-1-1
+     {
+         padding: 0;
+     }
+ 
+     .del-1-1 h4
+     {
+         margin-top: 20px;
+     }
+ 
+     .del-1-1 span
+     {
+         display: none;
+     }
+ 
+     .del-1-2
+     {
+         width: 100%;
+         padding: 10px;
+     }
+     /* del-end */
+ 
+     /* stu-start */
+     .stu-main
+     {
+         flex-wrap: wrap;
+     }
+ 
+     .stu-1
+     {
+         flex-wrap: wrap;
+         gap: 0;
+     }
+ 
+     .stu-1-1
+     {
+         width: 100%;
+     }
+ 
+     .stu-1-2
+     {
+         width: 100%;
+     }
+ 
+     .stu-1-3
+     {
+         width: 100%;
+     }
+ 
+     .stu-1-2 h3
+     {
+         margin-top: 70px;
+     }
+     /* stu-end */
+ 
+     /* look-start */
+     .look-main
+     {
+         flex-wrap: wrap;
+     }
+ 
+     .look-1
+     {
+         flex-wrap: wrap;
+     }
+ 
+     .look-1-1
+     {
+         width: 100%;
+         margin-top: 190px;
+     }
+ 
+     .look-1-2
+     {
+         width: 100%;
+        }
+ 
+     .look-1-3
+     {
+         width: 100%;
+     }
+     /* look-end */
+ 
+     /* new-psge-contact-start */
+ 
+     /* contact-start */
+     .contact-main
+     {
+         flex-wrap: wrap;
+     }
+ 
+     .contact-1
+     {
+         padding: 0;
+     }
+ 
+     .contact-1 h3
+     {
+         font-size: 40px;
+     }
+ 
+     .contact-1 h4
+     {
+         font-size: 16px;
+         color: goldenrod;
+     }
+ 
+     .contact-1 p
+     {
+         margin-bottom: 40px;
+     }
+ 
+     .contact-1 h2
+     {
+         margin-top: 30px;
+     }
+      /* contact-end */
+
+      /* loop-start */
+ 
+     .loop-1 input
+     {
+         margin-left: 0;
+         padding-right: 100px;
+     }
+ 
+     .loop textarea 
+     {
+        padding-right: 35%;
+        margin-left: 4%;
+     }
+     .loop a
+     {
+         margin-left: 30%;
+     }
+     /* loop-end */
+}
+
+@media screen and (min-width:350px) and (max-width:425px) {
+    /* header-start */
+    .header-main
+    {
+        flex-wrap: wrap;
+    }
+
+    .header-1
+    {
+        padding: 0;
+    }
+
+    .header-1-1
+    {
+        padding: 121px;
+        bottom: 0;
+        left: 55px;
+        top: 65px;
+    }
+    /* header-end */
+
+    /* danny-start */
+    .danny-main
+    {
+        flex-wrap: wrap;
+    }
+
+    .danny-1
+    {
+        flex-wrap: wrap;
+    }
+
+    .danny-1-1
+    {
+        width: 100%;
+    }
+
+    .danny-1-1-1
+    {
+        width: 65%;
+        margin-left: 35%;
+    }
+
+    .danny-1-1-2
+    {
+        width: 65%;
+    }
+
+    .danny-1-2
+    {
+        width: 100%;
+        text-align: center;
+    }
+
+    .ab
+    {
+        flex-wrap: wrap;
+        margin-left: 120px;
+    }
+    /* danny-end */
+
+    /* minim-start */
+    .minim-main
+    {
+        flex-wrap: wrap;
+    }
+
+    .minim-1{
+        flex-wrap: wrap;
+    }
+
+    .minim-1-1{
+        flex-wrap: wrap;
+    }
+
+    .minim-1-1
+    {
+        width: 100%;
+        text-align: center;
+    }
+
+    .minim-1-1-1
+    {
+        width: 100%;
+    }
+
+    .what-btn
+    {
+        flex-wrap: wrap;
+        margin-top: 30px;
+        margin-left: 110px;
+    }
+    .minim-1-1-2
+    {
+        width: 100%;
+    }
+
+    .minim-1-1-2 p
+    {
+        margin-top: 0;
+    }
+
+    .minim-1-2
+    {
+        width: 100%;
+    }
+
+    .what-btn
+    {
+        margin-left: 95px;
+    }
+    /* minim-end */
+
+    /* ties-start */
+    .ties-main
+    {
+        flex-wrap: wrap;
+    }
+    
+    .ties-1
+    {
+        flex-wrap: wrap;
+    }
+
+    .ties-1-1
+    {
+        width: 100%;
+    }
+
+    .ties-1-1-1
+    {
+        width: 75%;
+    }
+
+    .ties-1-1-2
+    {
+        width: 75%;
+    }
+
+    .ties-1-2
+    {
+        width: 100%;
+        flex-wrap: wrap;
+    }
+
+    .ties-1-2-1
+    {
+        width: 100%;
+        text-align: center;
+    }
+
+    .whatt-btn
+    {
+        margin-left: 100px;
+    }
+
+    .ties-1-2-2 p
+    {
+        margin-top: 0;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    /* ties-end */
+
+    /* crem-start */
+    .creme-main
+    {
+        flex-wrap: wrap;
+    }
+
+    .creme-1
+    {
+        padding: 0;
+    }
+
+    .creme-1-1 h2
+    {
+        font-size: 50px;
+    }
+
+    .creme-1-1 h3
+    {
+        font-size: 40px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    .creme-1-1 p
+    {
+        font-size: 20px;
+    }
+
+    .creme-1-1 h4
+    {
+        font-size: 25px;
+    }
+
+    .read-btn
+    {
+        width: 45%;
+        margin-left: 30%;
+        flex-wrap: wrap;
+    }
+    /* crem-end */
+
+    /* menu-start */
+    .menu-main
+    {
+        flex-wrap: wrap;
+    }
+
+    .menu-1
+    {
+        flex-wrap: wrap;
+    }
+
+    .menu-1-1 
+    {
+        width: 80%;
+        bottom: 0;
+        margin-top: 30px;
+        margin-left: 44px;
+        border-radius: 40px;
+        margin-bottom: 30px;
+    }
+
+    .menu-2
+    {
+        width: 100%;
+        flex-wrap: wrap;
+    }
+
+    .menu-1-2
+    {
+        width: 50%;
+    }
+
+    .menu-1-3
+    {
+        width: 50%;
+    }
+
+    .menu-1-4
+    {
+        width: 50%;
+    }
+
+    .menu-1-5
+    {
+        width: 50%;
+    }
+    /* menu-end */
+
+    /* slider-start */
+    .slider-main
+    {
+        flex-wrap: wrap;
+    }
+    
+    .mySlides
+    {
+        padding: 80px 0px;
+    }
+    
+    .mySlides q
+    {
+        font-size: 25px;
+    }
+
+    .slideshow-container h2
+    {
+        margin-left: 0;
+        text-align: center;
+    }
+
+    .slideshow-container h3
+    {
+        margin-left: 0;
+        text-align: center;
+    }
+    /* slider-end */
+
+    /* book-start */
+    .book-main
+    {
+        flex-wrap: wrap;
+    }
+
+    .book-1{
+        flex-wrap: wrap;
+    }
+
+    .book-1-1
+    {
+        width: 100%;
+        padding: 50px;
+    }
+
+    .book-1-1 h2
+    {
+        margin-top: 70px;
+    }
+
+    .book-1-2
+    {
+        width: 100%;
+        display: none;
+    }
+    /* book-end */
+
+    /* countt-start */
+    .gk-btn
+    {
+        flex-wrap: wrap;
+        margin-left: 7%;
+    }
+
+    .input-1 input
+    {
+        border-radius: 50px 50px 50px 50px;
+    }
+
+    .k-btn
+    {
+        margin-left: 1%;
+        margin-top: 20px;
+        border-radius: 50px 50px 50px 50px;
+        border-left: 4px double black;
+    }
+
+    .countt-1 h2
+    {
+        font-size: 40px;
+    }
+    /* countt-end */
+
+    /* footer-start */
+
+    .footer
+    {
+        padding: 0;
+        padding-bottom: 40px;
+    }
+
+    .footer-main
+    {
+        flex-wrap: wrap;
+    }
+
+    .footer-1
+    {
+        flex-wrap: wrap;
+    }
+
+    .footer-1-1
+    {
+        width: 100%;
+    }
+
+    .footer-1-2
+    {
+        width: 100%;
+    }
+
+    .footer-1-1 p
+    {
+        text-align: center;
+    }
+
+    .footer-1-3
+    {
+        width: 100%;
+    }
+
+    .footer-1-4
+    {
+        width: 100%;
+        text-align: center;
+    }
+    /* footer-end */
+
+    /* new-page-menu-start */
+
+    /* menu-header-start */
+    .menu-header-main
+    {
+        flex-wrap: wrap;
+    }
+
+    .menu-header-1
+    {
+        padding: 0;
+    }
+
+    .menu-header-1-1 h3
+    {
+        margin-bottom: 20px;
+    }
+    /* menu-header-end */
+
+    /* testy-start */
+    .tasty main
+    {
+        flex-wrap: wrap;
+    }
+
+    .tasty-1
+    {
+        flex-wrap: wrap;
+    }
+
+    .tasty-1-1
+    {
+        width: 100%;
+    }
+
+    .tasty-1-2
+    {
+        width: 100%;
+    }
+
+    .tasty-1-3
+    {
+        width: 100%;
+        display: none;
+    }
+
+    .testy-1-3-1 h4
+    {
+        font-size: 13px;
+    }
+
+    .tasty-1-2-2 h4
+    {
+        font-size: 13px;
+    }
+    /* testy-end */
+
+    /* new-page-reservation-start */
+
+    /* Reservation-start */
+    .Reservation-main
+    {
+        flex-wrap: wrap;
+    }
+
+    .Reservation-1
+    {
+        padding: 0;
+    }
+
+    .Reservation-1 h2
+    {
+        font-size: 50px;
+    }
+    /* Reservation-end */
+
+    /* details-start */
+    .Details
+    {
+        width: 100%;
+        padding: 0;
+        margin-left: 0;
+        bottom: 0;
+        top: 20px;
+    }
+    .Details-main
+    {
+        flex-wrap: wrap;
+    }
+
+    .Details-2
+    {
+        flex-wrap: wrap;
+    }
+
+    .Details-2-1
+    {
+        width: 60%;
+    }
+
+    .Details-2-2
+    {
+        width: 60%;
+    }
+
+    .Details-2-2 h4
+    {
+        margin-top: 20px;
+    }
+
+    .Details-2-3
+    {
+        width: 60%;
+    }
+
+    .Details-2-3 h4
+    {
+        margin-top: 20px;
+    }
+
+    .detailes-3 input
+    {
+        padding: 10px 70px;
+    }
+
+    .detailes-3-4 textarea
+    {
+        padding: 10px 120px;
+    }
+
+    .detailes-3 h4
+    {
+        margin-top: 30px;
+    }
+    /* details-end */
+
+    /* new-pae-shop-start */
+
+    /* shop-start */
+    .shop-1
+    {
+        flex-wrap: wrap;
+    }
+
+    .shop-1-1
+    {
+        margin-bottom: 10px;
+        text-align: center; 
+    }
+
+    .snip1401
+    {
+        max-width: 400px;
+    }
+    .shop-main h2
+    {
+        text-align: center;
+    }
+
+    .shop-main h4
+    {
+        margin-top: 20px;
+        text-align: center;
+    }
+
+    .shop-card-main
+    {
+        flex-wrap: wrap;
+    }
+
+    .shop-card-1
+    {
+        flex-wrap: wrap;
+        margin-top: 10px;
+    }
+    /* shop-end */
+
+    /* new-page-news-start */
+
+    /* news-header-start */
+    .news-header-main
+    {
+        flex-wrap: wrap;
+    }   
+
+    .news-header-1
+    {
+        padding: 0; 
+    }
+
+    .news-header-1 h4
+    {
+        margin-bottom: 20px;
+    }
+
+    .news-header-1 h2
+    {
+        color: black;
+    }
+
+    .news-header-1 h1
+    {
+        font-size: 70px;
+    }
+    /* news-header-end */
+
+    /* del-start */
+
+    .del-main
+    {
+        flex-wrap: wrap;
+    }
+
+    .del-1-1-1
+    {
+        padding: 0px;
+        border-radius: 0px 0px 50px 0px;
+    }
+
+    .del-1-1-1 h5
+    {
+        margin-top: 30px;
+    }
+
+    .del-1
+    {
+        flex-wrap: wrap;
+    }
+
+    .del-1-1
+    {
+        width: 100%;
+    }
+
+    .del-1-1 span
+    {
+        font-size: 20px;
+    }
+
+    .del-1-2
+    {
+        width: 100%;
+        border-radius: 100px;
+    }
+
+    .del-1-1 p
+    {
+        margin-top: 0;
+        margin-bottom: 20px;
+    }
+
+    /* del-end */
+
+    /* stu-start */
+    .stu-main
+    {
+        flex-wrap: wrap;
+    }
+
+    .stu-1
+    {
+        flex-wrap: wrap;
+        text-align: center;
+    }
+
+    .stu-1-1
+    {
+        width: 100%;
+    }
+
+    .stu-1-2
+    {
+        width: 100%;
+    }
+
+    .stu-1-3
+    {
+        width: 100%;
+        top: 0;
+    }
+    /* stu-end */
+
+    /* look-start */
+    .look-main
+    {
+        flex-wrap: wrap;
+    }
+
+    .look-1
+    {
+        flex-wrap: wrap;
+        text-align: center;
+    }
+
+    .look-1-1
+    {
+        width: 100%;
+    }
+
+    .look-1-2
+    {
+        width: 100%;
+    }
+
+    .look-1-3
+    {
+        width: 100%;
+        padding: 0 25px;
+    }
+
+    .look-1-1 h2
+    {
+        margin-top: 30px;
+    }
+
+    .look-1-1 h5
+    {
+        margin-top: 30px;
+        margin-bottom: 20px;
+    }
+    /* look-end */
+
+    /* new-page-contact-start */
+
+    /* contact-start */
+    .contact-main
+    {
+        flex-wrap: wrap;
+    }
+
+    .contact-1
+    {
+        padding: 0;
+    }
+
+    .contact-1 h3
+    {
+        font-size: 50px;
+    }
+
+    .contact-1 p
+    {
+        margin-bottom: 20px;
+    }
+    /* contact-end */
+
+    /* loop-start */
+    .loop-main
+    {
+        flex-wrap: wrap;
+    }
+
+    .loop-1 input
+    {
+        margin-left: 0;
+        padding-right: 170px;
+    }
+
+    .loop textarea
+    {
+        margin-left: 16px;
+    }
+
+    .loop a
+    {
+        margin-left: 35%;
+    }
+    /* loop-end */
+}
